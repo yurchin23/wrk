@@ -1,7 +1,7 @@
 # ======== PART1 ========#
 # Creation instance in region us-east-2 (Ohio) with Virtual Private Cloude for testing 
 # OS Instance - Amazon Linux
-# Width ports: 80, 443, 22
+# With ports: 80, 443, 22
 # Install Docker and Git
 # ======== END PART1 ========#
 # ======== PART2 ========#
